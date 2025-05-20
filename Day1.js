@@ -13,19 +13,18 @@
 
 // Problem NO 3
 
-function fideRectangleArea(length, width) {
+// function fideRectangleArea(length, width) {
 
-    if (length <= 0 || width <= 0) {
-        return console.log("your value is wrong")
-    }
+//     if (length <= 0 || width <= 0) {
+//         return console.log("your value is wrong")
+//     }
+//     const a = length * width
+//     console.log("Rectangle Area is " + a)
+// }
 
-    const a = length * width
-    console.log("Rectangle Area is " + a)
+// fideRectangleArea(100, 200)
+// fideRectangleArea(100, -10)
+// fideRectangleArea(-20, 10)
 
 
 
-}
-
-fideRectangleArea(100, 200)
-fideRectangleArea(100, -10)
-fideRectangleArea(-20, 10)
