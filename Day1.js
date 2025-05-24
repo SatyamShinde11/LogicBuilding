@@ -7,14 +7,12 @@
 // function Sum(a, b) {
 //     let sum = a + b
 //     console.log("Sum is " + sum);
-
 // }
 // Sum(2, 7)
 
 // Problem NO 3
 
 // function fideRectangleArea(length, width) {
-
 //     if (length <= 0 || width <= 0) {
 //         return console.log("your value is wrong")
 //     }
